@@ -1,2 +1,2 @@
-# box
-A box to storage files
+# What's Box
+This is simply a box to storage files
